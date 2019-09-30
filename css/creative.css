@@ -10663,13 +10663,14 @@ hr.light {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #f4623a;
+    color: #6971ff; /* color al pasar el cursor en el menu MRS */
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #6971ff; /* color al pasar el cursor en el menu Inicio, servicios, galeria y contacto */
+  }
   }
 }
 
